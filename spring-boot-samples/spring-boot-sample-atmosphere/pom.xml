@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
+		<!-- so changed artifact to starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.0.RELEASE</version>
